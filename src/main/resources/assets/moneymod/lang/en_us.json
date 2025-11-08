@@ -1,0 +1,7 @@
+{
+  "item.moneymod.trading_stick": "Trading Stick",
+  "item.moneymod.coin": "Coin",
+  "screen.moneymod.trading": "Trading Terminal",
+  "gui.moneymod.sell_all": "Sell Inventory",
+  "gui.moneymod.balance": "Balance: %s coins"
+}
